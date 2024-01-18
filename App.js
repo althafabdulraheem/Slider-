@@ -1,6 +1,4 @@
-// images=documet.querySelector('slider-container');
 
-// if we use querySelector we only get first img under slider-container
 
 let sliderWrapper=document.querySelector('.slider-container');
 let images=document.querySelectorAll('.slider-container img');
