@@ -12,7 +12,7 @@ https://rawcdn.githack.com/althafabdulraheem/Slider-/e3af19cbd8593f419503227134a
 <p>Step 2 :- Include css file</p>
 https://rawcdn.githack.com/althafabdulraheem/Slider-/310d508c6af17723929a55dc52cc0988e3c3e42e/App.css
 <p></p>
-<p>Step 3 :- Wrap the images  under the div with class name ='slider-container'</p>
+<p>Step 3 :- Wrap the images  under a div with class name ='slider-container'</p>
 eg:
     
         <div class="slider-container">
