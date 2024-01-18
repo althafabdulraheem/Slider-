@@ -5,13 +5,13 @@
 <h2>Codepen</h2>
 <a href="https://codepen.io/althafabdulraheem/pen/vYPmXmW">Link</a>
 
-<h3>How to use</h3>
+<h3><u>How to use</u></h3>
 <p>Step 1 :- Include js file</p>
 https://rawcdn.githack.com/althafabdulraheem/Slider-/e3af19cbd8593f419503227134a53a52ce0cde25/App.js
-
+<p></p>
 <p>Step 2 :- Include css file</p>
 https://rawcdn.githack.com/althafabdulraheem/Slider-/310d508c6af17723929a55dc52cc0988e3c3e42e/App.css
-
+<p></p>
 <p>Step 3 :- Wrap the images  under the div with class name ='slider-container'</p>
 eg:
     
