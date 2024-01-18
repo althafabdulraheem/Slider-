@@ -1,3 +1,4 @@
+<body>
 <h1>A simple js slider with attractive transition effect</h1>
 <img src="https://github.com/althafabdulraheem/Slider-/assets/109522801/9e772883-df04-4ece-80c7-8c7fc1ab7006"/>
 
@@ -6,11 +7,10 @@
 
 <h3>How to use</h3>
 <p>Step 1 :- Include js file</p>
-<script src="https://rawcdn.githack.com/althafabdulraheem/Slider-/e3af19cbd8593f419503227134a53a52ce0cde25/App.js"></script>
-
+https://rawcdn.githack.com/althafabdulraheem/Slider-/e3af19cbd8593f419503227134a53a52ce0cde25/App.js
 
 <p>Step 2 :- Include css file</p>
-<link rel="stylesheet" href="https://rawcdn.githack.com/althafabdulraheem/Slider-/310d508c6af17723929a55dc52cc0988e3c3e42e/App.css">
+https://rawcdn.githack.com/althafabdulraheem/Slider-/310d508c6af17723929a55dc52cc0988e3c3e42e/App.css
 
 <p>Step 3 :- Wrap the images  under the div with class name ='slider-container'</p>
 eg:
@@ -25,4 +25,4 @@ eg:
 
 <h4>Happy coding :)</h4>
 
-
+</body>
