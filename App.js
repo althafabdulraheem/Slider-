@@ -12,6 +12,7 @@ parent.replaceChild(img_slide,images[0])
 
 images.forEach((img)=>{
     img_slide.appendChild(img)
+
 })
 
 
@@ -58,11 +59,16 @@ function loadImage()
         {
            
             img.classList.add('d-none')
+            img.style.opacity=0;
            
         }
         else{
            
-            img.classList.remove('d-none')
+            img.classList.remove('d-none');
+            setTimeout(()=>{
+                img.style.opacity=1;
+            },100)
+           
         }
     })
 }
